@@ -1,0 +1,3 @@
+aus5.mozilla.org:HSTS	0	19446	1711707226819,1,0
+contile.services.mozilla.com:HSTS	0	19446	1711706777193,1,0
+location.services.mozilla.com:HSTS	0	19446	1711706777438,1,1

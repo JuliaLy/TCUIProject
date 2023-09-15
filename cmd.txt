@@ -1,0 +1,2 @@
+npm test  --tests
+npm test './test/11VariantAndPreserveOCR_test.js' --tests
